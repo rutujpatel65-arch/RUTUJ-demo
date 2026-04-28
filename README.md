@@ -1,4 +1,5 @@
-# RUTUJ-demo
-This  is my first Git  Repository
+# rutuj-demo
+
+This is  my first git repository.
 <br>
-Author -Rutuj Patel 
+Auther - rutuj patel
